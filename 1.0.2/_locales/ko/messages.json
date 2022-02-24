@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "message": "사이드바 스케치"
+  },
+  "appDesc": {
+    "message": "오프라인에서도 사이드바에서 언제든지 스케치할 수 있습니다."
+  },
+  "shortName": {
+    "message": "스케치"
+  },
+  "defaultName": {
+    "message": "지금 스케치하세요!"
+  },
+  "clear": {
+    "message": "분명한"
+  },
+  "save": {
+    "message": "저장"
+  }
+}

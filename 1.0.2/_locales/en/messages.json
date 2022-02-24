@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "message": "Sidebar Sketch"
+  },
+  "appDesc": {
+    "message": "Sketch anytime on your sidebar, even offline."
+  },
+  "shortName": {
+    "message": "Sketch"
+  },
+  "defaultName": {
+    "message": "Sketch now!"
+  },
+  "clear": {
+    "message": "clear"
+  },
+  "save": {
+    "message": "save"
+  }
+}

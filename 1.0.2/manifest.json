@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "name": "__MSG_appName__",
+    "version": "1.0.2",
+    "description": "__MSG_appDesc__",
+    "icons": {
+	"512": "icons/512.png",
+	"128": "icons/128.png",
+	"64": "icons/64.png",
+	"48": "icons/48.png",
+	"32": "icons/32.png",
+	"24": "icons/24.png",
+	"16": "icons/16.png"
+    },
+    "sidebar_action": {
+	"default_panel": "index.html",
+	"default_icons": {
+	    "512": "icons/512.png",
+	    "128": "icons/128.png",
+	    "64": "icons/64.png",
+	    "48": "icons/48.png",
+	    "32": "icons/32.png",
+	    "24": "icons/24.png",
+	    "16": "icons/16.png"
+	},
+	"default_name": "__MSG_defaultName__"
+    },
+    "default_locale": "en",
+    "short_name": "__MSG_shortName__",
+    "author": "Schmextensions",
+    "offline_enabled": true
+}
